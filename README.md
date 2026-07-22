@@ -15,7 +15,7 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 <p align="left">
   <!-- Power BI -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="Power BI" width="40" height="40" style="vertical-align:middle; margin-right:10px;"/>
+    <img src="./icons/Power-BI.png" alt="Power BI" width="40" height="40">
   </a>
   <!-- SSRS -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
