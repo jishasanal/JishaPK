@@ -75,10 +75,10 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jisha-pk-173b18101/" target="_blank">
+    <img src="./icons/linkdin.jpg.jpg" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Email"/>
+    <img src="./icons/gmail.png" alt="Email"/>
   </a>
 </p>
