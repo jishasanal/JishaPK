@@ -15,7 +15,7 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 <p align="left">
   <!-- Power BI -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="./icons/Power-BI.png" alt="Power BI" width="40" height="40">
+    <img src="./icons/Power-BI.png" alt="Power BI" width="40" height="40"title="Power BI" >
   </a>
   <!-- SSRS -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
@@ -26,13 +26,13 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 ### Data Engineering & Databases
 <p align="left">
   <!-- SSIS -->
-  <img src="./icons/ssis.jpg" alt="Power BI" width="40" height="40">
+  <img src="./icons/ssis.jpg" alt="Power BI" width="40" height="40" title="SSIS">
   <!-- MySQL -->
-  <img src="./icons/sql.jpg" alt="Power BI" width="40" height="40">
+  <img src="./icons/sql.jpg" alt="Power BI" width="40" height="40" title="MYSql">
   <!-- Data Warehousing -->
-  <img src="./icons/data-modelling.png" alt="Power BI" width="40" height="40">
+  <img src="./icons/data-modelling.png" alt="Power BI" width="40" height="40"title="Data Modelling">
   <!-- Data Modelling -->
-  <img src="./icons/data-warehouse.png" alt="Power BI" width="40" height="40">
+  <img src="./icons/data-warehouse.png" alt="Power BI" width="40" height="40"title="Data Warehouse">
 </p>
 
 ---
