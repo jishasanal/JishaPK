@@ -30,9 +30,9 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
   <!-- MySQL -->
   <img src="./icons/sql.jpg" alt="Power BI" width="40" height="40">
   <!-- Data Warehousing -->
-  <img src="https://shields.io" alt="Data Warehouse" height="35"/>
+  <img src="./icons/data-modelling.png" alt="Power BI" width="40" height="40">
   <!-- Data Modelling -->
-  <img src="https://shields.io" alt="Data Modelling" height="35"/>
+  <img src="./icons/data-warehouse.png" alt="Power BI" width="40" height="40">
 </p>
 
 ---
