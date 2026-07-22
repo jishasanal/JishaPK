@@ -19,7 +19,7 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
   </a>
   <!-- SSRS -->
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" alt="SSRS" height="40" style="vertical-align:middle; margin-right:10px;"/>
+    <img src="./icons/ssrs1.png"" alt="SSRS" height="40" style="vertical-align:middle; margin-right:10px;"title="SSRS"/>
   </a>
 </p>
 
