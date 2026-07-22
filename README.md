@@ -26,7 +26,7 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 ### Data Engineering & Databases
 <p align="left">
   <!-- SSIS -->
-  <img src="./icons/ssis.jpg" alt="Power BI" width="40" height="40" title="SSIS">
+  <img src="./icons/ssis.png" alt="Power BI" width="40" height="40" title="SSIS">
   <!-- MySQL -->
   <img src="./icons/sql.jpg" alt="Power BI" width="40" height="40" title="MYSql">
   <!-- Data Warehousing -->
