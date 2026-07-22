@@ -26,9 +26,9 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 ### Data Engineering & Databases
 <p align="left">
   <!-- SSIS -->
-  <img src="https://shields.io" alt="SSIS" height="35"/>
+  <img src="./icons/ssis.jpg" alt="Power BI" width="40" height="40">
   <!-- MySQL -->
-  <img src="https://shields.io" alt="MySQL" height="35"/>
+  <img src="./icons/sql.jpg" alt="Power BI" width="40" height="40">
   <!-- Data Warehousing -->
   <img src="https://shields.io" alt="Data Warehouse" height="35"/>
   <!-- Data Modelling -->
