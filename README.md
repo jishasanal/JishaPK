@@ -76,9 +76,9 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jisha-pk-173b18101/" target="_blank">
-    <img src="./icons/linkdin.jpg" alt="LinkedIn" width="40" height="40"/>
+    <img src="./icons/linkdin.jpg" alt="LinkedIn" width="40" height="40"target="_blank"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="./icons/gmail.png" alt="Email" width="40" height="40"/>
+    <img src="./icons/gmail.png" alt="Email" width="40" height="40"target="_blank"/>
   </a>
 </p>
