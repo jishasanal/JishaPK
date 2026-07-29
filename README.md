@@ -48,12 +48,14 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
 
 ## 📂 Featured Portfolio Projects
 
-### 🚀 [Project 1 Title: e.g., Enterprise Sales Data Warehouse & BI Architecture]
-* **Description:** An end-to-end analytical framework designed to consolidate messy retail operations data into a structured system for executive review.
-* **Tech Stack:** SSIS, MySQL, Data Modelling (Star Schema), Power BI.
+### 🚀 [Project 1 Title: Retail Data Analytics Portfolio Project]
+* **Description:** An end-to-end data analytics project that transforms raw retail customer shopping data into actionable business insights using SQL, Python, and Power BI, enabling data-driven decision-making through interactive dashboards and analytical reporting.
+* **Tech Stack:** Data Analytics Pipeline: SQL → Python → Power BI
 * **Key Achievements:** 
-  * Automated data consolidation from 3 disparate schemas into a central warehouse using SSIS loops.
-  * Authored a unified Power BI suite tracking critical KPIs, decreasing executive reporting lag from days to near real-time.
+  * Cleaned and transformed raw retail datasets using Python (Pandas) to ensure data quality and consistency.
+  * Performed advanced data analysis and business queries using SQL to uncover customer shopping trends and sales insights.
+  * Built interactive Power BI dashboards to visualize KPIs, customer behavior, product performance, and revenue trends.
+  * Delivered an end-to-end analytics workflow from data preprocessing to business intelligence reporting.
 
 ### 📈 [Project 2 Title: e.g., Operational Matrix & Paginated Corporate Reporting]
 * **Description:** Developed an enterprise operational matrix tracking financial compliance and performance margins over legacy servers.
