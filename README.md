@@ -57,7 +57,7 @@ I am a results-driven **Data Analyst** specializing in transforming raw enterpri
   * Built interactive Power BI dashboards to visualize KPIs, customer behavior, product performance, and revenue trends.
   * Delivered an end-to-end analytics workflow from data preprocessing to business intelligence reporting.
 ### 📂 View the Project
-🔗 GitHub Repository: https://github.com/jisha-portfolio/retail-data-analytics
+🔗 GitHub Repository: https://github.com/jisha-portfolio/jisha-portfolio/tree/main/retail-data-analytics
 
 ### 📈 [Project 2 Title: e.g., Operational Matrix & Paginated Corporate Reporting]
 * **Description:** Developed an enterprise operational matrix tracking financial compliance and performance margins over legacy servers.
