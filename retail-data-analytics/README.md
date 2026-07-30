@@ -11,7 +11,7 @@ This project demonstrates an end-to-end retail data analytics workflow using SQL
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](Images/dashboard_Overview.png)
 
 ## 📁 Project Files
 - 📊 Power BI Dashboard (.pbix)
