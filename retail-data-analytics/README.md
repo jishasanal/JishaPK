@@ -13,10 +13,6 @@ This project demonstrates an end-to-end retail data analytics workflow using SQL
 
 ![Dashboard Overview](Images/dashboard-overview.png)
 
-![Sales Dashboard](Images/sales-dashboard.png)
-
-![Customer Insights](Images/customer-insights.png)
-
 ## 📁 Project Files
 - 📊 Power BI Dashboard (.pbix)
 - 🐍 Python Notebook (.ipynb)
